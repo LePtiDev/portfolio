@@ -1,0 +1,14 @@
+<svg id="a63fe57b-45d3-47d5-9c66-d4fa22a33c7a" data-name="Calque 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 92.56 92.56">
+  <defs>
+    <linearGradient id="b6594482-ded5-4c78-8a4f-2bbfe5224796" data-name="Dégradé sans nom 13" x1="120.36" y1="251.91" x2="120.36" y2="344.46" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#507575"/>
+      <stop offset="0.44" stop-color="#5b9ea1"/>
+      <stop offset="0.8" stop-color="#62b8bd"/>
+      <stop offset="1" stop-color="#65c2c8"/>
+    </linearGradient>
+    <linearGradient id="ab4f911b-6549-4222-81dd-09c6a5849c5a" x1="75.9" y1="75.44" x2="75.9" y2="92.44" xlink:href="#b6594482-ded5-4c78-8a4f-2bbfe5224796"/>
+  </defs>
+  <title>Quentin</title>
+  <path d="M126.47,336a39.48,39.48,0,0,1-8.17.43,38.28,38.28,0,1,1,40.25-40.78,38.05,38.05,0,0,1-4,19.75" transform="translate(-74.08 -251.91)" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="16" stroke="url(#b6594482-ded5-4c78-8a4f-2bbfe5224796)"/>
+  <line x1="75.9" y1="83.94" x2="75.9" y2="83.94" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="17" stroke="url(#ab4f911b-6549-4222-81dd-09c6a5849c5a)"/>
+</svg>

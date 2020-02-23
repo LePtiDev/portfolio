@@ -1,0 +1,57 @@
+
+/* reset */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: white;
+}
+
+/* général */
+
+body{
+    background-color: black;
+}
+
+/* mouse following */
+
+
+.wrap {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    overflow: hidden;
+}
+
+#ball {
+    width: 60px;
+    height: 60px;
+    background: none;
+    border: 1px solid grey;
+    border-radius: 50%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin: -10px 0 0 -10px;
+    pointer-events: none;
+    z-index: 1000;
+}
+
+/* section 1 */
+
+.section1{
+    height: 100vh;
+    width: 100vw;
+    position: relative;
+}
+
+.ligne{
+    height: 1px;
+    width: 100vw;
+    background-color: white;
+    position: absolute;
+    top: calc(50vh - 1px);
+}

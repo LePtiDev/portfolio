@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "Alexana";
+    src: url("Alexana.ttf");
+}
+
+@font-face {
+    font-family: "Quantum";
+    src: url("Quantum.otf") format("opentype"),
+}
